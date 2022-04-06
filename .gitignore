@@ -1,0 +1,7 @@
+*~
+*.log
+rpmbuild/SOURCES/*.bz2
+rpmbuild/SOURCES/*.gz
+rpmbuild/cache
+rpmbuild/output
+pkg/
